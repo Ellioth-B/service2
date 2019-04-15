@@ -1,0 +1,5 @@
+[
+    {"id":1, "name" : "Mojito", "price" : 2, "img" : "/assets/mojito.jpeg"},
+    {"id": 2, "name" : "Jaggerbomb", "price" : 5, "img" : "assets/jagerbomb.jpg"},
+    {"id": 3, "name" : "Chartreuse", "price" : 20, "img" : "assets/chartreuse.png"}
+]

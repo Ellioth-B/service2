@@ -1,0 +1,5 @@
+<div *ngFor="let first of cocktails">
+  <li>{{first.name}},  {{first.price}}$</li> <br>
+  <!-- <img src="../../assets/chartreuse.png" alt="alcool"/> -->
+  <img [src]="first.img" [alt]="alcool" />
+</div>
